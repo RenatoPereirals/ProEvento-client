@@ -27,13 +27,12 @@ Uma aplicação web para gerenciar eventos, palestras e usuários. Este projeto 
 
 ```bash
 git clone https://github.com/RenatoPereirals/ProEvento.git
-cd PorEventos
 ```
 
 2. Configure o servidor:
 
 ```bash
-cd Server
+cd ProEventos\Server\src
 dotnet restore
 dotnet run
 ```
@@ -41,7 +40,7 @@ dotnet run
 3. Configure o cliente:
 
 ```bash
-cd Client
+cd Client\ProEventos-App
 npm install
 ng serve
 ```

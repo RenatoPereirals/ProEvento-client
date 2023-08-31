@@ -26,8 +26,8 @@ Uma aplicação web para gerenciar eventos, palestras e usuários. Este projeto 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/RenatoPereirals/ProEvento.git
+cd PorEventos
 ```
 
 2. Configure o servidor:

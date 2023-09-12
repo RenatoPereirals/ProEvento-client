@@ -2,6 +2,17 @@
 
 Gerenciador de Eventos e Palestras
 
+ **Tecnologias Utilizadas:**
+- HTML
+- CSS
+- TypeScript
+- Angular
+- C#
+- DotNet
+- AspNet
+- Entity Framework
+- JWT
+
 ## Descrição
 
 Uma aplicação web para gerenciar eventos, palestras e usuários. Este projeto utiliza .NET 6 com ASP.NET Core no servidor, Entity Framework para o banco de dados e JWT para autenticação. A parte do cliente é construída com Angular e Bootstrap 5.
